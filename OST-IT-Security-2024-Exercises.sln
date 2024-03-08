@@ -11,6 +11,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hash-Threema", "Hash-Threem
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "utils", "utils\utils.csproj", "{06A44AD9-18BF-49EC-BE51-1641763723B9}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SYMENC-ModesXor", "SYMENC-ModesXor\SYMENC-ModesXor.csproj", "{E562E1FA-973C-4C28-96EC-D0F9EF6ECA4E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SymEncrypt-SecureString", "SymEncrypt-SecureString\SymEncrypt-SecureString.csproj", "{D7F27896-7AEF-4D17-99F9-6587975F651D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{06A44AD9-18BF-49EC-BE51-1641763723B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06A44AD9-18BF-49EC-BE51-1641763723B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06A44AD9-18BF-49EC-BE51-1641763723B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E562E1FA-973C-4C28-96EC-D0F9EF6ECA4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E562E1FA-973C-4C28-96EC-D0F9EF6ECA4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E562E1FA-973C-4C28-96EC-D0F9EF6ECA4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E562E1FA-973C-4C28-96EC-D0F9EF6ECA4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7F27896-7AEF-4D17-99F9-6587975F651D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7F27896-7AEF-4D17-99F9-6587975F651D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7F27896-7AEF-4D17-99F9-6587975F651D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7F27896-7AEF-4D17-99F9-6587975F651D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
