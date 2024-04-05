@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SYMENC-AES", "SYMENC-AES\SY
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASYM-SM", "ASYM-SM\ASYM-SM.csproj", "{C74C7DAA-1372-4CFD-9B96-1BB9E7445615}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASYM-DH", "ASYM-DH\ASYM-DH.csproj", "{E9CDAB8A-41E6-4904-94CB-0FC560CF0FAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{C74C7DAA-1372-4CFD-9B96-1BB9E7445615}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C74C7DAA-1372-4CFD-9B96-1BB9E7445615}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C74C7DAA-1372-4CFD-9B96-1BB9E7445615}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9CDAB8A-41E6-4904-94CB-0FC560CF0FAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9CDAB8A-41E6-4904-94CB-0FC560CF0FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9CDAB8A-41E6-4904-94CB-0FC560CF0FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9CDAB8A-41E6-4904-94CB-0FC560CF0FAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
